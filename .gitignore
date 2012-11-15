@@ -1,3 +1,9 @@
+cached/
+logs/
+notes/
+
+.DS_Store
+
 dist
 cabal-dev
 *.o
